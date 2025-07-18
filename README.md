@@ -1,2 +1,6 @@
 # kukm_dashboard
-streamlit pandas plotly openpyxl
+requirements:
+streamlit 
+pandas 
+plotly 
+openpyxl
