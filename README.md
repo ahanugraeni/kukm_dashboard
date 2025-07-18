@@ -1,6 +1,1 @@
-# kukm_dashboard
-requirements:
-streamlit 
-pandas 
-plotly 
-openpyxl
+https://kukmdashboard-20212024.streamlit.app
